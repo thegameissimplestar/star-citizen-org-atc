@@ -1,0 +1,5 @@
+{
+  "name": "Star Citizen Org Companion",
+  "description": "A mobile-style web application for managing a Star Citizen gaming organization, providing views for the dashboard, members, fleet, and operations.",
+  "requestFramePermissions": []
+}
